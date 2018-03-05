@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TimerExample</string>
+    <string name="seconds">SS</string>
+    <string name="minutes">MM</string>
+    <string name="colon">:</string>
+    <string name="reset">Set Time</string>
+    <string name="start_stop">Start</string>
+    <string name="set_time">Set Time!</string>
+</resources>
